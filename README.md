@@ -1,6 +1,6 @@
-# fluttertestapp
+# Table_UI
 
-A new Flutter application.
+A new Flutter application to Select UI for static Table.
 
 ## Getting Started
 

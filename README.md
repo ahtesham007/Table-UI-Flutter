@@ -2,7 +2,11 @@
 
 A new Flutter application to Select UI for static Table.
 
-![GitHub Logo](/images/Screenshot_2021-05-14-18-11-56-0528632889 (1).png)
+##DEMO
+
+![SS1](https://github.com/ahtesham007/Table-UI-Flutter/blob/main/images/Screenshot_2021-05-14-18-11-56-0528632889%20(1).png)
+![SS2](https://github.com/ahtesham007/Table-UI-Flutter/blob/main/images/Screenshot_2021-05-14-18-11-56-0528632889.png)
+
 
 ## Getting Started
 
